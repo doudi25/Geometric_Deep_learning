@@ -1,0 +1,2 @@
+# Geometric_Deeplearning
+Using geometric_deeplearning on wikipedia_netowrk with different architectures : Graph_Convolutional_Network and Graph_Attention_Network 
